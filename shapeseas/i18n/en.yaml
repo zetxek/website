@@ -29,11 +29,10 @@
 - id: "showcase_description"
   translation:  
    <p class="lead">
-      I am a developer and technical project manager based in Philly 
+      I am a technical project manager and developer based in Philly 
       with 10+ years of experience in non-profit and research settings.
       <br>
-      My background is in software engineering, social science, and grants/data management.
-      I like to build software solutions in social service settings and understand the implications of these systems.
+      My professional background is primarily in data/operations management, where I build software and create technology strategy to make our jobs easier. Academically, I have studied computer science and social science.
       The focus of my work is&#58;
       <br>1) Developing socio-technical systems to facilitate effective processes
       <br>2) Building open-source projects to advance knowledge infrastructures
@@ -46,7 +45,7 @@
 
   ## not visible but used for accessibility
 - id: "showcase_image_alt"
-  translation: "An image of space bubbles around a computer, photo cred Canva Magic Studio"
+  translation: "An image of space bubbles around a computer, photo credit Canva Magic Studio"
 
 ## Homepage about
 - id: "about_title"
@@ -56,16 +55,14 @@
   translation:
 
     <p class="lead">
-      I started my career in non-profits, many of which had limited resources to
-      build information systems, so data was most often stored in one of three places&#58; 
-      spreadsheets saved on someone's desktop locally, paper files locked away in a filing cabinet,
-      or the memory of staff.
-      <br> Trying to build systems that transformed these ways of knowing into open, digital spaces, 
-      I ran into the limits of data in social service settings. 
-      I knew that what was being quantified systematically was a compressed, flat representation of the work of staff and yet it was used for funding and decision-making.
-      <br> I became interested in understanding the limits of prediction and explanation using data. This drove me to join the <a href="https://css.seas.upenn.edu/">CSSLab</a>,
-      which unites computer science, statistics, and social science using digital data and platforms
-      to study people.
+    I have built and maintained software and data systems in a variety of organizations, 
+    working closely with experts and beginners in science/academia, workforce development, and education.
+    I have managed research infrastructure using modern development stacks and an agile approach,
+    as well as legacy government reporting projects using a careful waterfall approach.
+    I believe that successful information systems are built and maintained when we&#58;
+    <br>- set clear scope at the start of a project and make iterative edits that snowball over time
+    <br>- design software stacks that are calibrated to the organization and its members, not the current tech fads
+    <br>- and that in all of this, coding is usually the easiest part
     </p>
 
 - id: "about_button"
@@ -73,7 +70,7 @@
 
   ## not visible but used for accessibility
 - id: "about_image_alt"
-  translation: "An image of me, photo cred Jose Quintana"
+  translation: "An image of me, photo credit Jose Quintana"
 
 ## Homepage education
 - id: "education_title"
@@ -84,10 +81,20 @@
   translation: "Experience"
 
 - id: "experience_description"
-  translation: I have built and maintained software and data systems in a variety of organizations, working closely with experts and novices
-    in social service and academic settings.
-    I have managed research infrastructure using modern development stacks and an agile approach,
-    as well as legacy goverment reporting projects using a careful waterfall approach. Follow along from where I began to where I am now.
+  translation:
+    <p class ="lead">
+      I started my career in non-profits, many of which had limited resources to
+      build information systems, so data was most often stored in one of three places&#58; 
+      spreadsheets saved on someone's desktop locally, paper files locked away in a filing cabinet,
+      or the memory of staff.
+      <br> Trying to transform these ways of knowing into digital spaces,
+      I focused on designing systems that amplify the work of staff and complement the expertise that practioners have built over years of doing their jobs.
+      I also ran into the limits of data in education settings. 
+      I knew that what was being quantified systematically could become a compressed, flat representation of the work of staff and young people if used for funding, hiring, and decision-making in ways it was not designed for.
+      <br> I became interested in understanding the limits of prediction and explanation using data. This drove me to join the <a href="https://css.seas.upenn.edu/">Computational Social Science Lab</a>,
+      which unites computer science, statistics, and social science using digital data and platforms
+      to study people.
+    </p>
 # - id: "experience_button"
 #   translation: "LinkedIn" 
 

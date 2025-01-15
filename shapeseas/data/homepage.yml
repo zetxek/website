@@ -30,15 +30,15 @@ about:
 
 # education
 education:
-  enable: true
+  enable: false 
   items:
     - university: "University of Pennsylvania"
-      year: "2020-2024"
+      year: ""
       degree: "<i>School of Engineering and Applied Science</i> <br> Master of Computer and Information Technology"
 
     - university: "University of Pennsylvania"
-      year: "2012-2015"
-      degree: <i>The Wharton School</i> <br> Bachelor of Science in Economics
+      year: ""
+      degree: "<i>The Wharton School</i> <br> Bachelor of Science in Economics"
 
 # experience
 ## to hiden a button, set the icon to an empty string
