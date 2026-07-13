@@ -165,6 +165,8 @@ theme = "adritian-free-hugo-theme"
 
 [params]
 
+  description = "Eric Shapiro — technical project manager and developer based in Philadelphia with 10+ years of experience building socio-technical systems in non-profit and research settings."
+
   sections = ["showcase", "about", "experience", "contact"]
 
   homepageExperienceCount = 5
